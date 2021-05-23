@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @clintrizzo
-- 👀 I’m interested in frontend web development with the goal in becoming a software developer. I have a passion with python but also really love making cool websites!
+- 👀 I’m interested in frontend web development with the goal in becoming a software developer.
 - 🌱 I’m currently learning frontend web development through Trilogy at UCI
 - 💞️ I’m looking to collaborate on frontend projects but would also like to dive into more backend work using more databases.
 - 📫 How to reach me: email: clint.rizzo92@gmail.com
