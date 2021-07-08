@@ -1,8 +1,9 @@
+## Bio
 - Web Developer with a background in Customer Service. Recognized as proactive, resourceful, and persistent problem-solver. Excellent communicator with effective client         relationship building skills. Earned a Certificate in Full-Stack Web Development from the University of CA-Irvine with the goal of becoming a skilled Web Developer. Languages learned were HTML/CSS, Javascript, Node, Express, and React. Main goal in becoming a successful Web Developer is to continue learning as much as possible to become an essential asset to any team. Because of the skills learned through the bootcamp and personal background any task given will be completed.
 - I’m currently a working contributer on https://github.com/Damon1v1/Simulview working on the frontend of the project
 - 📫 How to reach me: email: clint.rizzo92@gmail.com | linkedin: https://www.linkedin.com/in/clinton-rizzo-79b67b1b6/
 
-## 🧰 Languages and Tools:
+## Languages and Tools:
 <p align="center">
 <img src="https://image.freepik.com/free-icon/html-file-with-code-symbol_318-45756.jpg" alt="HTML" height="40" style="vertical-align:top; margin:5px">
 <img src="https://c1.klipartz.com/pngpicture/980/312/sticker-png-html-logo-css3-javascript-web-design-css-grid-layout-html5-electric-blue-symbol.png" alt="CSS" height="40" style="vertical-align:top; margin:45px">
