@@ -1,18 +1,7 @@
-- 👋 Hi, I’m @clintrizzo
-- 👀 Web Developer with a background in Customer Service. Recognized as proactive, resourceful, and persistent problem-solver. Excellent communicator with effective client         relationship building skills. Earned a Certificate in Full-Stack Web Development from the University of CA-Irvine with the goal of becoming a skilled Web Developer. Languages learned were HTML/CSS, Javascript, Node, Express, and React. Main goal in becoming a successful Web Developer is to continue learning as much as possible to become an essential asset to any team. Because of the skills learned through the bootcamp and personal background any task given will be completed.
-- 🌱 I’m currently a working contributer on https://github.com/Damon1v1/Simulview working on the frontend of the project
-- 📫 How to reach me: email: clint.rizzo92@gmail.com
-
-## ✉️ Find me on:
-
-
-<p align="center">
- <a href="https://github.com/clintrizzo" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="github" height="40" style="vertical-align:top; margin:4px"> </a>
- <a href="https://www.linkedin.com/in/clinton-rizzo-79b67b1b6/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="linkedin" height="40" style="vertical-align:top; margin:4px"></a>
- <a href="mailto:clint.rizzo92@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="email" height="40" style="vertical-align:top; margin:4px"></a>
-</p>
-
-<br />
+- 👋 Hi, I’m clintrizzo
+- Web Developer with a background in Customer Service. Recognized as proactive, resourceful, and persistent problem-solver. Excellent communicator with effective client         relationship building skills. Earned a Certificate in Full-Stack Web Development from the University of CA-Irvine with the goal of becoming a skilled Web Developer. Languages learned were HTML/CSS, Javascript, Node, Express, and React. Main goal in becoming a successful Web Developer is to continue learning as much as possible to become an essential asset to any team. Because of the skills learned through the bootcamp and personal background any task given will be completed.
+- I’m currently a working contributer on https://github.com/Damon1v1/Simulview working on the frontend of the project
+- 📫 How to reach me: email: clint.rizzo92@gmail.com | linkedin: https://www.linkedin.com/in/clinton-rizzo-79b67b1b6/
 
 ## 🧰 Languages and Tools:
 <p align="center">
