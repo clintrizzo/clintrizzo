@@ -28,9 +28,9 @@
 <img src="https://tse2.mm.bing.net/th?id=OIP.c2Bm6fTdMYk3uRQpBZU5tAHaHY&pid=Api&P=0&w=300&h=300" alt="GIT" height="40" style="vertical-align:top; margin:5px"> 
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:5px">
 </p>
-<center>
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=clintrizzo&show_icons=true&theme=tokyonight)
- </center>
+
 
 
 
