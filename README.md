@@ -4,6 +4,9 @@
 - 💞️ I’m looking to collaborate on frontend projects but would also like to dive into more backend work using more databases.
 - 📫 How to reach me: email: clint.rizzo92@gmail.com
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=clintrizzo&show_icons=true&theme=tokyonight)
+
+
 <!---
 clintrizzo/clintrizzo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
