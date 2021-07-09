@@ -5,8 +5,7 @@
 
 ## Languages and Tools:
 <p align="center">
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=clintrizzo)](https://github.com/clintrizzo/github-readme-stats)api/top-langs?username=clintrizzo
-
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=clintrizzo)](https://github.com/clintrizzo/github-readme-stats)
 <img src="https://image.freepik.com/free-icon/html-file-with-code-symbol_318-45756.jpg" alt="HTML" height="40" style="vertical-align:top; margin:10px">
 <img src="https://c1.klipartz.com/pngpicture/980/312/sticker-png-html-logo-css3-javascript-web-design-css-grid-layout-html5-electric-blue-symbol.png" alt="CSS" height="40" style="vertical-align:top; margin:10px">
 <img src="https://tse2.mm.bing.net/th?id=OIP.GQ1CUtFYAi8c2b-pThbpJQHaGF&pid=Api&P=0&w=211&h=174" alt="Bootstrap" height="40" style="vertical-align:top; margin:10px">
