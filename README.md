@@ -3,24 +3,34 @@
 - I’m currently a working contributer on https://github.com/Damon1v1/Simulview working on the frontend of the project
 - 📫 How to reach me: email: clint.rizzo92@gmail.com | linkedin: https://www.linkedin.com/in/clinton-rizzo-79b67b1b6/
 
-## Languages and Tools:
 <p align="center">
-<img src="https://image.freepik.com/free-icon/html-file-with-code-symbol_318-45756.jpg" alt="HTML" height="40" style="vertical-align:top; margin:10px">
-<img src="https://c1.klipartz.com/pngpicture/980/312/sticker-png-html-logo-css3-javascript-web-design-css-grid-layout-html5-electric-blue-symbol.png" alt="CSS" height="40" style="vertical-align:top; margin:10px">
-<img src="https://tse2.mm.bing.net/th?id=OIP.GQ1CUtFYAi8c2b-pThbpJQHaGF&pid=Api&P=0&w=211&h=174" alt="Bootstrap" height="40" style="vertical-align:top; margin:10px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:10px">
-<img src="https://pngimg.com/uploads/mysql/mysql_PNG29.png" alt="MySQL" height="40" style="vertical-align:top; margin:10px">
-<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--_QMQU86---/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/6dnng3pre04xxdebia1g.png" alt="NodeJS" height="40" style="vertical-align:top; margin:10px"> 
-<img src="https://florencefennel.co.in/image/cache/catalog/florencefennel/MangoDB-1000x1000.jpg" alt="MongoDB" height="40" style="vertical-align:top; margin:10px">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" alt="REACT" height="40" style="vertical-align:top; margin:10px">
-<img src="https://tse2.mm.bing.net/th?id=OIP.Xf-cqG_M8hgQydXsePMomQAAAA&pid=Api&P=0&w=300&h=300" alt="ATOM" height="40" style="vertical-align:top; margin:10px">
-<img src="https://tse2.mm.bing.net/th?id=OIP.c2Bm6fTdMYk3uRQpBZU5tAHaHY&pid=Api&P=0&w=300&h=300" alt="GIT" height="40" style="vertical-align:top; margin:10px"> 
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:10px">
+## Languages
+<img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+<img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
+<img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+<img alt="Express.js" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
+<img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+<img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+<img alt="jQuery" src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white"/>
+<img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
+
+## IDE
+<img alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+<img alt="Sublime Text" src="https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important"/>
+<img alt="Atom" src="https://img.shields.io/badge/Atom-%2366595C.svg?style=for-the-badge&logo=atom&logoColor=white"/>
+  
+## Tools
+<img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
+<img alt="GitLab" src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white"/>
+<img alt="Heroku" src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white"/>
+<img alt="Vercel" src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img alt="Firebase" src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase"/>
+
 </p>
 
 ## Github Stats:
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=clintrizzo&count_private=true&theme=tokyonight&showicons=true)]()
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=clintrizzo&langs_count=5&theme=tokyonight)]()
 
 
 
