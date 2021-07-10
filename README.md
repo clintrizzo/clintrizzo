@@ -6,16 +6,16 @@
 
 ## Contact Me
 <a href="https://www.youtube.com/channel/UCpARYFoliOIr-UGpIT-4ibQ/videos" rel="noopener noreferrer" target="_blank">
-<i className="fa fa-youtube-square" aria-hidden="true" />
+Youtube Channel
 </a>
 <a href="https://www.linkedin.com/in/clinton-rizzo-79b67b1b6/" rel="noopener noreferrer" target="_blank">
-<i className="fa fa-linkedin-square" aria-hidden="true" />
+Linkedin
 </a>
 <a href="https://www.instagram.com/clintrizzo/" rel="noopener noreferrer" target="_blank">
-<i className="fa fa-instagram" aria-hidden="true" />
+Instagram
 </a>
 <a href="https://docs.google.com/document/d/1qoSVfiUBKsaPGNi_9KM9QEsKNl-7HqC2UACmeYMM2XQ/edit?usp=sharing" rel="noopener noreferrer" target="_blank">
-<i className="fa fa-folder-open" aria-hidden="true" />  
+Resume
 </a>
 
 
