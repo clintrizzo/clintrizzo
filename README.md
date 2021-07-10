@@ -16,7 +16,7 @@ Instagram
 <a href="https://docs.google.com/document/d/1qoSVfiUBKsaPGNi_9KM9QEsKNl-7HqC2UACmeYMM2XQ/edit?usp=sharing" rel="noopener noreferrer" target="_blank">
 Resume 
 </a>
-email: clint.rizzo92@gmail.com
+clint.rizzo92@gmail.com
 
 
 ## Languages and Tools
