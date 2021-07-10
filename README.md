@@ -4,6 +4,10 @@
 - Also learning how to build a social media app using react and firebase
 - 📫 How to reach me: email: clint.rizzo92@gmail.com | linkedin: https://www.linkedin.com/in/clinton-rizzo-79b67b1b6/
 
+## Contact Me
+<img alt="Instagram" src="https://img.shields.io/badge/<handle>-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/ <a href='https://www.instagram.com/clintrizzo/'>
+
+
 ## Languages and Tools
 <p align="center">
 <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -30,6 +34,8 @@
 
 ## Currently Learning
 <img alt="Firebase" src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase"/>
+<img alt="Redux" src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white"/>
+
 
 
 
