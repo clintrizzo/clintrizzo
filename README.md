@@ -8,12 +8,15 @@
 <a href="https://www.youtube.com/channel/UCpARYFoliOIr-UGpIT-4ibQ/videos" rel="noopener noreferrer" target="_blank">
 Youtube Channel
 </a>
+<br></br>
 <a href="https://www.linkedin.com/in/clinton-rizzo-79b67b1b6/" rel="noopener noreferrer" target="_blank">
 Linkedin
 </a>
+<br></br>
 <a href="https://www.instagram.com/clintrizzo/" rel="noopener noreferrer" target="_blank">
 Instagram
 </a>
+<br></br>
 <a href="https://docs.google.com/document/d/1qoSVfiUBKsaPGNi_9KM9QEsKNl-7HqC2UACmeYMM2XQ/edit?usp=sharing" rel="noopener noreferrer" target="_blank">
 Resume
 </a>
