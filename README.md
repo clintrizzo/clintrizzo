@@ -1,7 +1,7 @@
 ## Bio
 - Web Developer with a background in Customer Service. Recognized as proactive, resourceful, and persistent problem-solver. Excellent communicator with effective client         relationship building skills. Earned a Certificate in Full-Stack Web Development from the University of CA-Irvine with the goal of becoming a skilled Web Developer. Languages learned were HTML/CSS, Javascript, Node, Express, and React. Main goal in becoming a successful Web Developer is to continue learning as much as possible to become an essential asset to any team. Because of the skills learned through the bootcamp and personal background any task given will be completed.
 - I’m currently a working contributer on https://github.com/Damon1v1/Simulview working on the frontend of the project
-- Also learning how to build a social media app using react and firebase https://github.com/clintrizzo/socialape-functions
+- Also learning how to build a Microsoft Teams chatroom clone https://github.com/clintrizzo/ChatBox
 
 ## Contact Me
 <a href="https://www.linkedin.com/in/clinton-rizzo/" rel="noopener noreferrer" target="_blank">
@@ -38,8 +38,7 @@ clint.rizzo92@gmail.com
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=clintrizzo&count_private=true&theme=prussian&showicons=true)]()
 
 ## Currently Learning
-<img alt="Firebase" src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase"/>
-<img alt="Redux" src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white"/>
+Sockets, Rest APIs, Sending Images with alerts (sounds and uodated times of when user sent message) using react, React Hooks, and Props
 
 
 
