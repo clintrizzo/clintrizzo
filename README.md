@@ -38,7 +38,7 @@ clint.rizzo92@gmail.com
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=clintrizzo&count_private=true&theme=prussian&showicons=true)]()
 
 ## Currently Learning
-Sockets, Rest APIs, Sending Images with alerts (sounds and uodated times of when user sent message) using react, React Hooks, and Props
+Sockets, Rest APIs, Sending Images with alerts (sounds and updated times of when user sent message) using react components, React Hooks, and Props
 
 
 
