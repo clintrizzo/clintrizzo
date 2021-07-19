@@ -1,7 +1,8 @@
 ## Bio
 - Web Developer with a background in Customer Service. Recognized as proactive, resourceful, and persistent problem-solver. Excellent communicator with effective client         relationship building skills. Earned a Certificate in Full-Stack Web Development from the University of CA-Irvine with the goal of becoming a skilled Web Developer. Languages learned were HTML/CSS, Javascript, Node, Express, and React. Main goal in becoming a successful Web Developer is to continue learning as much as possible to become an essential asset to any team. Because of the skills learned through the bootcamp and personal background any task given will be completed.
 - I’m currently a working contributer on https://github.com/Damon1v1/Simulview working on the frontend of the project
-- Also learning how to build a Microsoft Teams chatroom clone https://github.com/clintrizzo/frontend-chat-repo
+- Starting a new chat app to help me learn <img alt="Firebase" src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase"/> building a true authentication for this app instead of using local storage as in previous app practice. This App will be using react, google and facebook for user login, routing, and a rest API from [chatengine](https://chatengine.io/)
+
 
 ## Contact Me
 <a href="https://www.linkedin.com/in/clinton-rizzo/" rel="noopener noreferrer" target="_blank">
@@ -38,7 +39,9 @@ clint.rizzo92@gmail.com
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=clintrizzo&count_private=true&theme=prussian&showicons=true)]()
 
 ## Currently Learning
-Sockets, Rest APIs, Sending Images with alerts (sounds and updated times of when user sent message) using react components, React Hooks, and Props
+<img alt="Firebase" src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase"/>
+<br></br>
+As well as continued learning of javascript, react, and routing
 
 
 
