@@ -3,7 +3,7 @@
 <br></br>
 - I’m currently a working contributer on https://github.com/Damon1v1/Simulview working on the frontend of the project
 <br></br>
-- Starting a new chat app to help me learn <img alt="Firebase" src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase"/> building a true authentication for this app instead of using local storage as in previous app practice. This App will be using react, google and facebook for user login, routing, and a rest API from [chatengine](https://chatengine.io/)
+- Currently working through the react projects book to help me learn react and react native. Building dyname frontend and fullstack applications
 
 
 ## Contact Me
