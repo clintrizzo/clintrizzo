@@ -1,10 +1,11 @@
 ## Bio
-- Web Developer with a background in Customer Service. Recognized as proactive, resourceful, and persistent problem-solver. Excellent communicator with effective client         relationship building skills. Earned a Certificate in Full-Stack Web Development from the University of CA-Irvine with the goal of becoming a skilled Web Developer. Languages learned were HTML/CSS, Javascript, Node, Express, and React. Main goal in becoming a successful Web Developer is to continue learning as much as possible to become an essential asset to any team. Because of the skills learned through the bootcamp and personal background any task given will be completed.
+- Web Developer with a background in Customer Service. Recognized as proactive, resourceful, and persistent problem-solver. Excellent communicator with effective client relationship building skills. Earned a Certificate in Full-Stack Web Development from the University of CA-Irvine with the goal of becoming a skilled Web Developer. Languages learned were HTML/CSS, Javascript, Node, Express, and React. Main goal in becoming a successful Web Developer is to continue learning as much as possible to become an essential asset to any team. Because of the skills learned through the bootcamp and personal background any task given will be completed.
 <br></br>
 - I’m currently a working contributer on https://github.com/Damon1v1/Simulview working on the frontend of the project
 <br></br>
-- Currently working through the [react-projects-book](https://www.amazon.com/React-Projects-real-world-applications-scratch/dp/1789954932/ref=asc_df_1789954932?tag=bingshoppinga-20&linkCode=df0&hvadid=80264440653017&hvnetw=o&hvqmt=e&hvbmt=be&hvdev=c&hvlocint=&hvlocphy=&hvtargid=pla-4583863987380972&psc=1) to help me learn react and react native. Building dyname frontend and fullstack applications
-
+- Currently working through the [react-projects-book](https://www.amazon.com/React-Projects-real-world-applications-scratch/dp/1789954932/ref=asc_df_1789954932?tag=bingshoppinga-20&linkCode=df0&hvadid=80264440653017&hvnetw=o&hvqmt=e&hvbmt=be&hvdev=c&hvlocint=&hvlocphy=&hvtargid=pla-4583863987380972&psc=1) to help me learn react, react native, and react-360. Building progressive web applications along with full stack web applications to help me learn best practices while continuing my learning after the bootcamp. After these 12 projects I am hoping to have a better understanding of components and react hooks by implementing them into my everyday projects.
+- <br></br>
+- Another source I continously use is [Traversy-Media](https://www.youtube.com/user/TechGuyWeb) with helping with javascript when I need to go back to the basics.
 
 ## Contact Me
 <a href="https://www.linkedin.com/in/clinton-rizzo/" rel="noopener noreferrer" target="_blank">
@@ -41,7 +42,10 @@ clint.rizzo92@gmail.com
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=clintrizzo&count_private=true&theme=prussian&showicons=true)]()
 
 ## Currently Learning
-<img alt="Firebase" src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase"/> As well as continued learning of javascript, react, and routing
+<img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+<img alt="React Native" src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+<img alt="Webpack" src="https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black" />
+
 
 
 
