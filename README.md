@@ -3,7 +3,7 @@
 <br></br>
 - I’m currently a working contributer on https://github.com/Damon1v1/Simulview working on the frontend of the project
 <br></br>
-- Currently working through the react projects book to help me learn react and react native. Building dyname frontend and fullstack applications
+- Currently working through the [react-projects-book](https://www.amazon.com/React-Projects-real-world-applications-scratch/dp/1789954932/ref=asc_df_1789954932?tag=bingshoppinga-20&linkCode=df0&hvadid=80264440653017&hvnetw=o&hvqmt=e&hvbmt=be&hvdev=c&hvlocint=&hvlocphy=&hvtargid=pla-4583863987380972&psc=1) to help me learn react and react native. Building dyname frontend and fullstack applications
 
 
 ## Contact Me
