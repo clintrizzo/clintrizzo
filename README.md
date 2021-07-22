@@ -41,7 +41,7 @@ clint.rizzo92@gmail.com
 
 
 ## Github Stats:
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=clintrizzo&count_private=true&theme=prussian&showicons=true)]()
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=clintrizzo&count_private=true&layout=compact&theme=prussian&showicons=true)]()
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=clintrizzo&layout=compact)
 
 ## Continued Studies and Currently Learning
