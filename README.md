@@ -37,7 +37,8 @@ clint.rizzo92@gmail.com
 <img alt="Heroku" src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white"/>
 <img alt="Vercel" src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"/>
 </p>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=clintrizzo&theme=tokyonight)]()
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CharalambosIoannou&theme=tokyonight)
+
 
 ## Github Stats:
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=clintrizzo&count_private=true&theme=prussian&showicons=true)]()
