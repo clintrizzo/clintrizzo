@@ -1,3 +1,9 @@
+## Table of Contents
+- [About Me](#about-me)
+- [Languages and Tools](#languages-and-tools)
+- [Stats](#github-stats)
+- [Currently Learning:](#currently-learning)
+
 ## About Me
 - Web Developer with a background in Customer Service. Recognized as proactive, resourceful, and persistent problem-solver. Excellent communicator with effective client relationship building skills. Earned a Certificate in Full-Stack Web Development from the University of CA-Irvine with the goal of becoming a skilled Web Developer. Languages learned were HTML/CSS, Javascript, Node, Express, and React. Main goal in becoming a successful Web Developer is to continue learning as much as possible to become an essential asset to any team. Because of the skills learned through the bootcamp and personal background any task given will be completed.
 <br></br>
@@ -34,7 +40,7 @@
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=clintrizzo&count_private=true&layout=compact&theme=prussian&showicons=true)]()
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=clintrizzo&layout=compact)
 
-## Continued Studies and Currently Learning
+## Currently Learning
 <p align="center">
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
