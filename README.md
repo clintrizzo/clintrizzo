@@ -1,10 +1,13 @@
 ## Table of Contents
+<hr style="2px" "white"></hr>
 - [About Me](#about-me)
 - [Languages and Tools](#languages-and-tools)
 - [Stats](#github-stats)
 - [Currently Learning:](#currently-learning)
+- [Contact Me:](#contact-me)
 
 ## About Me
+<hr style="2px" "white"></hr>
 - Web Developer with a background in Customer Service. Recognized as proactive, resourceful, and persistent problem-solver. Excellent communicator with effective client relationship building skills. Earned a Certificate in Full-Stack Web Development from the University of CA-Irvine with the goal of becoming a skilled Web Developer. Languages learned were HTML/CSS, Javascript, Node, Express, and React. Main goal in becoming a successful Web Developer is to continue learning as much as possible to become an essential asset to any team. Because of the skills learned through the bootcamp and personal background any task given will be completed.
 <br></br>
 - I’m currently a working contributer on https://github.com/Damon1v1/Simulview working on the frontend of the project
@@ -14,6 +17,7 @@
 - Another source I continously use is [Traversy-Media](https://www.youtube.com/user/TechGuyWeb) with helping with javascript when I need to go back to the basics.
 
 ## Languages and Tools
+<hr style="2px" "white"></hr>
 <p align="center">
 <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
 <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -37,10 +41,12 @@
 
 
 ## Github Stats:
+<hr style="2px" "white"></hr>
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=clintrizzo&count_private=true&layout=compact&theme=prussian&showicons=true)]()
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=clintrizzo&layout=compact)
 
 ## Currently Learning
+<hr style="2px" "white"></hr>
 <p align="center">
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
@@ -49,6 +55,7 @@
 </p>
 
 ## Contact Me
+<hr style="2px" "white"></hr>
 <a href="https://www.linkedin.com/in/clinton-rizzo/" rel="noopener noreferrer" target="_blank">
 Linkedin 
 </a>
