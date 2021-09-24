@@ -11,7 +11,6 @@
 - <strong>Currently</strong> building a website for SETINCUSA - Strategic Electrical Technologies [SETINC-REPO](https://github.com/clintrizzo/SETwebsite) (HTML, CSS, JavaScript)
 <br></br>
 - Studying Cypress to learn more end to end testing for future projects and continued learning. 
-- Another source I continously use is [Traversy-Media](https://www.youtube.com/user/TechGuyWeb) with helping with javascript when I need to go back to the basics.
 
 ## Languages and Tools
 <p align='center'>
