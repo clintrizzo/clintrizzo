@@ -10,8 +10,7 @@
 <br></br>
 - <strong>Currently</strong> building a website for SETINCUSA - Strategic Electrical Technologies [SETINC-REPO](https://github.com/clintrizzo/SETwebsite) (HTML, CSS, JavaScript)
 <br></br>
-- <bold>Side Studies:</bold> working through the [react-projects-book](https://www.amazon.com/React-Projects-real-world-applications-scratch/dp/1789954932/ref=asc_df_1789954932?tag=bingshoppinga-20&linkCode=df0&hvadid=80264440653017&hvnetw=o&hvqmt=e&hvbmt=be&hvdev=c&hvlocint=&hvlocphy=&hvtargid=pla-4583863987380972&psc=1) to help me learn react, react native, and react-360. Building progressive web applications along with full stack web applications to help me learn best practices while continuing my learning after the bootcamp. After these 12 projects I am hoping to have a better understanding of components and react hooks by implementing them into my everyday projects.
-<br></br>
+- Studying Cypress to learn more end to end testing for future projects and continued learning. 
 - Another source I continously use is [Traversy-Media](https://www.youtube.com/user/TechGuyWeb) with helping with javascript when I need to go back to the basics.
 
 ## Languages and Tools
@@ -42,7 +41,7 @@
 
 ## Currently Learning
 <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-<img alt="React Native" src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+<img src="https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e" alt="cypress">
 <img alt="Webpack" src="https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black" />
 
 ## Contact Me
