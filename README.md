@@ -8,10 +8,9 @@
 ## About Me
 - Web Developer with a background in Customer Service. Recognized as proactive, resourceful, and persistent problem-solver. Excellent communicator with effective client relationship building skills. Earned a Certificate in Full-Stack Web Development from the University of CA-Irvine with the goal of becoming a skilled Web Developer. Languages learned were HTML/CSS, Javascript, Node, Express, and React. Main goal in becoming a successful Web Developer is to continue learning as much as possible to become an essential asset to any team. Because of the skills learned through the bootcamp and personal background any task given will be completed.
 <br></br>
-- <strong>Currently</strong> building a website for SETINCUSA - Strategic Electrical Technologies [SETINC-REPO](https://github.com/clintrizzo/SETwebsite) (HTML, CSS, JavaScript)
+- Currently studying Cypress to learn more end to end testing for future projects and continued learning. Building a task management using Angular and will then be bringing in cypress to do testing on the app
 <br></br>
-- Studying Cypress to learn more end to end testing for future projects and continued learning. 
-
+- <strong>Still Under Construction</strong> building a website for SETINCUSA - Strategic Electrical Technologies [SETINC-REPO](https://github.com/clintrizzo/SETwebsite) (HTML, CSS, JavaScript)
 ## Languages and Tools
 <p align='center'>
 <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -39,9 +38,9 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=clintrizzo&layout=compact)
 
 ## Currently Learning
-<img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+<img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img alt="Angular" src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white"/>
 <img src="https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e" alt="cypress">
-<img alt="Webpack" src="https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black" />
 
 ## Contact Me
 <a href="https://www.linkedin.com/in/clinton-rizzo/" rel="noopener noreferrer" target="_blank">
