@@ -8,6 +8,8 @@
 ## About Me
 - Web Developer with a background in Customer Service. Recognized as proactive, resourceful, and persistent problem-solver. Excellent communicator with effective client relationship building skills. Earned a Certificate in Full-Stack Web Development from the University of CA-Irvine with the goal of becoming a skilled Web Developer. Languages learned were HTML/CSS, Javascript, Node, Express, and React. Main goal in becoming a successful Web Developer is to continue learning as much as possible to become an essential asset to any team. Because of the skills learned through the bootcamp and personal background any task given will be completed.
 <br></br>
+- QA Tester with ServerFarm
+<br></br>
 - Currently studying Cypress to learn more end to end testing for future projects and continued learning. A mock angular build with buttons, data, and times that I will use to test my E2E.
 <br></br>
 - <strong>Still Under Construction</strong> building a website for SETINCUSA - Strategic Electrical Technologies [SETINC-REPO](https://github.com/clintrizzo/SETwebsite) (HTML, CSS, JavaScript)
